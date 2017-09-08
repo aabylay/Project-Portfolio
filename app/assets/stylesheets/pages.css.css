@@ -1,0 +1,53 @@
+.header {
+  bakcground-color: black;
+  color: black;
+  font-size: 24px;
+}
+
+.header li {
+  display: inline-block;
+  margin-right: 10px;
+  padding-top: 20px;
+  color: black;
+}
+
+.header a {
+  color: black;
+}
+
+.main {
+  height: 400px;
+  background-image: url("http://www.socwall.com/images/wallpapers/34096-1920x1200.jpg");
+  background-size: cover;
+}
+
+.main h1 {
+  margin-top: 200px;
+  color: white;
+}
+
+.main span {
+  background-color: white;
+  color: black;
+}
+
+.main a {
+  color: white;
+  border-radius: 0;
+  background-color: black;
+  font-size: 20px;
+}
+
+.footer {
+  text-align: right;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.footer li {
+  display: inline-block;
+}
+
+.footer img {
+  height: 30px;
+}
